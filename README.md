@@ -15,3 +15,32 @@ A full web application for email
 * Install its packages `npm install`
 * Adjust the application's server settings in a configuration TypeScript file `config.ts`
 * Initiate the client build process to access the user interface via a local web address http://localhost
+
+<h1>Display</h1>
+
+* Welcome Display
+
+![welcomedisplay.png](img%2Fwelcomedisplay.png)
+
+* Message Display
+
+![messagedisplay.png](img%2Fmessagedisplay.png)
+
+* Once a new contact is created, it will be displayed in the top right corner.
+
+![contact.png](img%2Fcontact.png)
+
+* Update the Contact's information
+
+![contactdisplay.png](img%2Fcontactdisplay.png)
+
+* Delete Display
+
+![deletedisplay.png](img%2Fdeletedisplay.png)
+
+* Sent Display
+
+![sentdisplay.png](img%2Fsentdisplay.png)
+
+
+
