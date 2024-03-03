@@ -1,0 +1,36 @@
+Version of Node.js: v20.9.0
+
+The browser I used to test: 
+			    1. Chrome: Version 119.0.6045.124 
+			    2. Microsoft Edge: Version 119.0.2151.44
+			    3. Safari: 17
+			    4. Firefox: 119
+			    5. Opera: 104
+
+Operating system I used to test: 
+			       OS Name: Microsoft Windows 11 Pro
+                	       OS Version: 10.0.22621 N/A Build 22621
+				
+			       OS Name: macOS Sonoma
+Computer architecture: 64-bit operating system, x64-based processor
+
+Description of how I test my code to make sure it would work for the majority of the users using my web page: I use Web Developer tool to switch the website to mobile view, and check if the layout and everything run successfully in the mobile users point of view.
+
+
+
+What I do to test my codes:
+
+Test everyendpoint in 'main.ts' by making requests to the server and verifying the response. I done the testing process by using "crul".
+
+
+
+How REST helps my web application.
+
+1. Statelessness:
+
+		Each HTTP request from the client to the server contains all the information needed to understand the request.
+2. Scalability:
+		Because REST encourages statelessness, it is easier to scale out the application by adding more backend servers as needed.
+
+3. Uniform Interface:
+		REST uses the standard HTTP methods, which provides a uniform way to interact with the webmail resources.
